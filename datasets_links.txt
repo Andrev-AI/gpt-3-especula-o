@@ -1,0 +1,6 @@
+COMMON CRAWL: https://commoncrawl.org
+
+WIKIPÉDIA: https://www.tensorflow.org/datasets/catalog/wikipedia?hl=pt-br | https://dumps.wikimedia.org
+
+PROJECT GUTENBERG: https://www.kaggle.com/datasets/mateibejan/15000-gutenberg-books | https://shibamoulilahiri.github.io/gutenberg_dataset.html
+
