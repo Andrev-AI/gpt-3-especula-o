@@ -36,3 +36,10 @@ Podemos especular que o GPT-3 foi treinado usando datasets como:
 • Twitter: Os tweets contêm uma enorme quantidade de linguagem informal curta. Contribuindo para o treinamento do modelo.
 
 Muitos outros datasets podem ter sido usados, até mesmo dados privados. Sabemos que foram usados no GPT-3 **570 GB** de texto. O GPT-2 usou **40 GB**. Como base, a bíblia inteira, com aproximadamente **773.693** palavras e mais de **3.000.000** (três milhões) de letras/caracteres, tem de **4 a 5 MB**.
+
+
+**C++ (cpp)**
+
+Também podemos especular que o GPT-3 tenha sido escrito em `C++`. Pois é uma linguagem de baixo nivel que pode ajudar em otimização de `hardware`. 
+Com uma linguagem de baixo nivel, pode ficar mais leve de ser execultado e trabalhar melhor com Tensores. Melhoraria também à portabilidade já que ele precisa de vários computadores diferentes para rodar o modelo. Podemos reforçar isso com o GPT do Bing. Já que foi feito uma portabilidade. Também modelos como o `LLama` da `Meta AI` que é escrito em `C++ e python`.
+
